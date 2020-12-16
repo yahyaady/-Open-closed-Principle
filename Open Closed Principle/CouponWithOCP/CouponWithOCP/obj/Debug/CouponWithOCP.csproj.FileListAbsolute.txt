@@ -1,0 +1,7 @@
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithOCP\CouponWithOCP\bin\Debug\CouponWithOCP.exe.config
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithOCP\CouponWithOCP\bin\Debug\CouponWithOCP.exe
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithOCP\CouponWithOCP\bin\Debug\CouponWithOCP.pdb
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithOCP\CouponWithOCP\obj\Debug\CouponWithOCP.csprojAssemblyReference.cache
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithOCP\CouponWithOCP\obj\Debug\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithOCP\CouponWithOCP\obj\Debug\CouponWithOCP.exe
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithOCP\CouponWithOCP\obj\Debug\CouponWithOCP.pdb

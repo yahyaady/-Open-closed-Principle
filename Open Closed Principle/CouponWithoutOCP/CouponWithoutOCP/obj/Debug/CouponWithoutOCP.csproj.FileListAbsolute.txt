@@ -1,0 +1,6 @@
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe.config
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.pdb
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.exe
+D:\Dosen Sem 3\Pem Lanjut\Modul 5\05_Coupon\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.pdb
